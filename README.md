@@ -4,5 +4,4 @@
 [![](https://img.shields.io/badge/-samuelxses@unipam.edu.br-red?style=flat-square&labelColor=red&logo=gmail&logoColor=white&link=http://link%3Dmailto:bewhalewell@gmail.com/)](http://link%3Dmailto:bewhalewell@gmail.com/)
 [![](https://img.shields.io/badge/-@samuelximeness-e1306c?style=flat-square&labelColor=e1306c&logo=instagram&logoColor=white&link=https://www.instagram.com/samuelximeness/)](https://www.instagram.com/samuelximeness/)
 
-- 🔭 I’m currently working at Smarkio
 
