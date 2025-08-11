@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning AI and Devops  
   
 
-- ❓ Ask me about anything related to NodeJS, Typiescript and related technologies  
+- ❓ Ask me about anything related to NodeJS, Typescript and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
